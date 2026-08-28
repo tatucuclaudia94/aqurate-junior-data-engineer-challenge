@@ -1,0 +1,10 @@
+﻿.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+aqurate.db
+orders_clean_preview.csv
+orders_clean_fx_preview.csv
+customer_spend_result.csv
+country_category_revenue_result.csv
